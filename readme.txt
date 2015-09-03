@@ -47,7 +47,7 @@ manner.
 
 What I mean by that is that you can push an image to position (x, y) = (20, 40)
 and then push another image to position (x, y) = (1000, 2000), and the image
-will grow dynamically. Here is hot to use it:
+will grow dynamically. Here is how to use it:
 
     var Stack = require('image').Stack;
 
